@@ -1,0 +1,1 @@
+﻿var textForPages = ["","","","","","","","","","","","","","","","Sem álcool                       Caipirinha Cremosa                       Limão ou Morango                       R$ 12,00","","","","","","",""];
